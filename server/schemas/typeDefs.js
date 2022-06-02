@@ -1,4 +1,4 @@
-// based on mini-project act 28 unit-21
+// based on act 26 unit-21
 const { gql } = require('apollo-server-express');
 
 const typeDefs = gql`

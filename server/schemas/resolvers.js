@@ -1,4 +1,7 @@
-const { Tech, Matchup } = require('../models');
+const {AuthenticationError} = require('apollo-server-express');
+const {User} = require('../models');
+const {signToken} = require('../utils/auth');
+// const { Tech, Matchup } = require('../models');
 
 const resolvers = {
   Query: {

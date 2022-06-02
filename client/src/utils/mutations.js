@@ -1,3 +1,4 @@
+// imported from act 26 unit-21
 import { gql } from '@apollo/client';
 
 export const LOGIN_USER = gql`

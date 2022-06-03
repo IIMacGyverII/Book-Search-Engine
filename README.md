@@ -10,7 +10,7 @@
 ## Link to view deployed project
 https://ancient-wildwood-20432.herokuapp.com/
 ## ScreenShot
-![Demo Video](https://github.com/IIMacGyverII/ReactPortfolio/raw/main/screenshot.png)
+![Demo Video](https://github.com/IIMacGyverII/Book-Search-Engine/raw/main/ss_BookSearchEngine.png)
 ## Credit
     All my instructors at Northwestern and my study groups.
 ## Licenses Used
